@@ -19,3 +19,6 @@ The project file is for Code::Blocks (`KalkulatorModulo.cbp`). You can also buil
 gcc main.c -o modulo.exe
 modulo.exe
 ```
+
+## License
+Released under the [MIT License](LICENSE).
