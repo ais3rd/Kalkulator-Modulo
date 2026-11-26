@@ -2,6 +2,8 @@
 
 A small C program that repeatedly reads two integers and prints the quotient and remainder of their integer division.
 
+![Quotient and remainder output](screenshot.png)
+
 ## Example
 ```
 17 5
